@@ -1,2 +1,7 @@
-# expanding-cards
-HTML, CSS and JS - Small project
+# Expanding cards
+## Tarjetas expadibles 
+
+
+HTML, CSS and JS
+
+Simple web to show expanding cards
